@@ -1,0 +1,14 @@
+#scroll-text {  /*lines 1-4 define the position of the scrolling text on the page; here it is 33*/
+    position: relative;
+    width: 33%;
+}
+
+.step {
+    height: 30rem;  /*defines how much vertical space to allow for each step; 
+                    may have to modify depending on how long the text of each step is*/
+    margin: 8rem auto;  /*defines margin around step*/
+}
+
+.top {
+    margin-bottom: 15rem;  /*sets the bottom margin for the top of the page*/
+}
